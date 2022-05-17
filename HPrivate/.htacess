@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Staff Only Access"
+AuthUserFile "/A4-Haukai-Copy/.htpasswd"
+Required valid-user
